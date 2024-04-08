@@ -21,7 +21,7 @@
 
 - To query the network for previous submitted transactions just re-input a previously used XDR. 
 
-- This is a satandalone app, meaning that it can run just using an internet browser. It doesn't require any dependencies and is OS agnostic.
+- This is a satandalone app, it can run just using an internet browser.
 
 - This tool is meant to complement [Stellar-Offline-Multisig.html](https://github.com/Chevy-Lu/Stellar-Offline-Multisig)
 
