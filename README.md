@@ -24,3 +24,8 @@
 - This is a satandalone app, meaning that it can run just using an internet browser. It doesn't require any dependencies and is OS agnostic.
 
 - This tool is meant to complement [Stellar-Offline-Multisig.html](https://github.com/Chevy-Lu/Stellar-Offline-Multisig)
+
+## Screenshot:
+
+  
+![Screenshot from 2024-04-08 08-18-27](https://github.com/Chevy-Lu/Stellar-Transaction-Submitter/assets/31299824/2caac138-cabb-4a43-91de-8f0472cb19c1)
